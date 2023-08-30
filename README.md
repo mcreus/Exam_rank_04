@@ -2,8 +2,11 @@
 
                                                 
 Assignment name  : microshell
+
 Expected files   : *.c *.h
+
 Allowed functions: malloc, free, write, close, fork, waitpid, signal, kill, exit, chdir, execve, dup, dup2, pipe, strcmp, strncmp
+
 --------------------------------------------------------------------------------------
 
 Ecrire un programme qui aura ressemblera à un executeur de commande shell
